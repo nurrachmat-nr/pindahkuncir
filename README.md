@@ -16,3 +16,6 @@ Pastikan gunakan Python 2.7 dan node.js udah diinstall.
 
 # Tampilan UI
 ![alt text](https://i.ibb.co/FKJ3w4S/pindahkuncir.png)
+
+# bingung?
+hub saya ;)
