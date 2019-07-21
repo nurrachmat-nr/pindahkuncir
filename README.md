@@ -13,3 +13,6 @@ Pastikan gunakan Python 2.7 dan node.js udah diinstall.
 2. buka cmd kemudian ketik websocketd --staticdir=./view --dir=./bin --port=8080
 3. buka chrome pertama kemudian ketik alamat localhost:8080
 4. buka chrome kedua kemudian ketik alamat localhost:8080/control.html
+
+# Tampilan UI
+![alt text](https://i.ibb.co/FKJ3w4S/pindahkuncir.png)
